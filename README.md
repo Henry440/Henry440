@@ -16,7 +16,10 @@ Hi 👋, I'm Oliver
 ## Aktuell lerne ich
 - [ ] Ansible
 
-## Systeme mit denen ich gearbeitet habe
-- [ ] Jira / Confluence
-- [ ] Wordpress
-- [ ] Python Django
+## Systeme/Programme mit denen ich gearbeitet habe
+- [x] Jira / Confluence
+- [x] Wordpress
+- [x] Python Django
+- [x] OpenVAS / GVM
+- [x] FreePBX / Asterisk
+- [x] ProLog (Logmanagement) 
