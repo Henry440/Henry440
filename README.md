@@ -23,3 +23,10 @@ Hi 👋, I'm Oliver
 - [x] OpenVAS / GVM
 - [x] FreePBX / Asterisk
 - [x] ProLog (Logmanagement) 
+
+## Mein Setup
+- 1 x RaspberryPi 3B+
+- 2 x MiniPC's
+- OmadaSDN mit MultiWAN (DSL/LTE)
+
+![MultiWAN Lösung](https://kroki.io/blockdiag/svg/eNpLyslPzk7JTExXqOZSUPAJcVWw0bVTiApx1Q0uLUorLslMzgaLuOfoZfqlloDZSv65iSmJCkH5pSWpRUrWQH0uwT5gmeCC1NSUgvyiEmOsCiE2RCfn5-QXKdgqKBWlpijFQvVDRG0hYly1AH5KLOU=)
