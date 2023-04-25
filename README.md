@@ -34,7 +34,7 @@ Hi 👋, I'm Oliver
 - 2 x MiniPC's
 - OmadaSDN mit MultiWAN (DSL/LTE)
 
-![MultiWAN Lösung](https://kroki.io/blockdiag/svg/eNpLyslPzk7JTExXqOZKL8ovLVAAsRQUfEJcFWx07RSiQlx1g0uL0opLMpOzwSLuOXqZfqklYLaSf25iSqJCUH5pSWqRkjVQn0uwD1gmuCA1NaUgv6jEGKvC5Pyc_CIFWwUl5eQ0EAQK1UJsjYZLFaWmKMVCzYSI2kLEuGoBqFI2Xg==)
+![MultiWAN Lösung](https://kroki.io/blockdiag/svg/eNpLyslPzk7JTEyvTi_KLy1QSFeodgn2UbDRtVMILkhNTSnILyoxBnOV_HMTUxIVgvJLS1KLlKx9QlzBwlEhrrrBpUVpxSWZydlgEfccvUy_1BJsmpLzc_KLFGwVlJST00BQyboWaE40XLgoNUUp1hroAIiQLUSgFgBIHzTu)
 
 
 ## What's in my Bag / EDC
