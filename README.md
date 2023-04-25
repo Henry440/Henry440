@@ -25,8 +25,22 @@ Hi 👋, I'm Oliver
 - [x] ProLog (Logmanagement) 
 
 ## Mein Setup
+- 1 x MacBook Pro
+- 1 x ThinkPad T470s
+
+## Mein Netzwerk
+- 1 x FritzBox als PBX
 - 1 x RaspberryPi 3B+
 - 2 x MiniPC's
 - OmadaSDN mit MultiWAN (DSL/LTE)
 
 ![MultiWAN Lösung](https://kroki.io/blockdiag/svg/eNpLyslPzk7JTExXqOZKL8ovLVAAsRQUfEJcFWx07RSiQlx1g0uL0opLMpOzwSLuOXqZfqklYLaSf25iSqJCUH5pSWqRkjVQn0uwD1gmuCA1NaUgv6jEGKvC5Pyc_CIFWwUl5eQ0EAQK1UJsjYZLFaWmKMVCzYSI2kLEuGoBqFI2Xg==)
+
+
+## What's in my Bag / EDC
+- TecBag
+  -> Wichtigste Kabel für den Alltag (Ladekabel, Consolenkabel, Adapter)
+  -> 2 x [Ventoy](https://github.com/ventoy/Ventoy) USB Sticks
+  -> 2 x USB Sticks (Verschlüsselt / Unverschlüsselt)
+  -> PowerBank
+- Schraubendreher mit Bitset
