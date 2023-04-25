@@ -38,9 +38,9 @@ Hi 👋, I'm Oliver
 
 
 ## What's in my Bag / EDC
-- TecBag
-  -> Wichtigste Kabel für den Alltag (Ladekabel, Consolenkabel, Adapter)
-  -> 2 x [Ventoy](https://github.com/ventoy/Ventoy) USB Sticks
-  -> 2 x USB Sticks (Verschlüsselt / Unverschlüsselt)
+- TecBag <br />
+  -> Wichtigste Kabel für den Alltag (Ladekabel, Consolenkabel, Adapter) <br />
+  -> 2 x [Ventoy](https://github.com/ventoy/Ventoy) USB Sticks <br />
+  -> 2 x USB Sticks (Verschlüsselt / Unverschlüsselt) <br />
   -> PowerBank
 - Schraubendreher mit Bitset
