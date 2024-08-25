@@ -1,46 +1,42 @@
-Hi 👋, I'm Oliver
-===============
+# Hallo, ich bin Oliver 👋
 
-### Fachinformatiker Systemintegration
-| Skill | Level |
-| --- | --- |
-| Linux Debian/Ubuntu | ⭐⭐⭐⭐ |
-| Windows Server | ⭐⭐ |
-| MacOS | ⭐⭐⭐ |
-| Docker | ⭐⭐⭐⭐ |
-| Netzwerk | ⭐⭐⭐ |
-| Python3 | ⭐⭐⭐⭐ |
-| Bash | ⭐⭐⭐ |
-| Git | ⭐⭐⭐ |
+## Über mich
 
-## Aktuell lerne ich
-- [ ] Ansible
+Ich bin IT-Systemadministrator in einem mittelständischen Unternehmen, spezialisiert auf kosteneffiziente IT-Lösungen. Meine Stärken liegen in der Planung, Implementierung und Verwaltung von IT-Infrastrukturen mit Fokus auf Linux- und Windows-Umgebungen, Netzwerktechnologien sowie Sicherheitslösungen.
 
-## Systeme/Programme mit denen ich gearbeitet habe
-- [x] Jira / Confluence
-- [x] Wordpress
-- [x] Python Django
-- [x] OpenVAS / GVM
-- [x] FreePBX / Asterisk
-- [x] ProLog (Logmanagement) 
+### Expertise:
 
-## Mein Setup
-- 1 x MacBook Pro
-- 1 x ThinkPad T470s
+- **Linux-Administration**: Umfangreiche Erfahrung in der Verwaltung von Linux-Systemen.
+- **Windows-Administration**: Gute Kenntnisse im Windows-Umfeld.
+- **Netzwerkadministration**: Planung und Optimierung von Netzwerken.
+- **SIEM-Tools**: Verwaltung und Überwachung von Sicherheitslösungen (OpenVAS, WAZUH, ProLog).
+- **Virtualisierung**: Einsatz von VMware vSphere in produktiven Umgebungen sowie auch Proxmox VE Cluster mit CEPH.
+- **Backup**: Backups werden mit Proxmox Backup Server erstellt sowie regelmäßige automatische Wiederherstellungstests.
 
-## Mein Netzwerk
-- 1 x FritzBox als PBX
-- 1 x RaspberryPi 3B+
-- 2 x MiniPC's
-- OmadaSDN mit MultiWAN (DSL/LTE)
+## Projekte
 
-![MultiWAN Lösung](https://kroki.io/blockdiag/svg/eNpLyslPzk7JTEyvTi_KLy1QSFeodgn2UbDRtVMILkhNTSnILyoxBnOV_HMTUxIVgvJLS1KLlKx9QlzBwlEhrrrBpUVpxSWZydlgEfccvUy_1BJsmpLzc_KLFGwVlJST00BQyboWaE40XLgoNUUp1hroAIiQLUSgFgBIHzTu)
+### Beruflich
 
+- **Aufbau einer Telefonanlage**: Implementierung einer FreePBX-basierten Telefonanlage.
+- **Administration von SIEM-Tools**: Verantwortlich für die Implementierung und Wartung von Sicherheitslösungen wie OpenVAS, ProLog und WAZUH.
+- **Erneuerung eines Unternehmensnetzwerks**: Planung und Umsetzung der gesamten Netzwerkinfrastruktur mit Ubiquiti-Komponenten.
 
-## What's in my Bag / EDC
-- TecBag <br />
-  -> Wichtigste Kabel für den Alltag (Ladekabel, Consolenkabel, Adapter) <br />
-  -> 2 x [Ventoy](https://github.com/ventoy/Ventoy) USB Sticks <br />
-  -> 2 x USB Sticks (Verschlüsselt / Unverschlüsselt) <br />
-  -> PowerBank
-- Schraubendreher mit Bitset
+### Privat
+
+- **Aufbau eines Homelabs**: Einrichtung eines privaten Netzwerks auf Basis von TP-Link Omada SDN-Technologie für Heimautomation und Lab-Tests.
+
+## Technologie-Stack
+
+- **Virtualisierung**: VMware vSphere
+- **Netzwerktechnik**: Ubiquiti (beruflich), TP-Link Omada (privat)
+- **Telefonie**: FreePBX
+- **SIEM-Tools**: OpenVAS, WAZUH, ProLog
+
+## Was ich suche
+
+Ich bin immer auf der Suche nach neuen Herausforderungen in den Bereichen IT-Infrastruktur, Netzwerksicherheit und Automatisierung. Wenn du an einer Zusammenarbeit oder einem Austausch interessiert bist, freue ich mich auf deine Nachricht!
+
+## Kontakt
+
+- **GitHub**: [GitHub-Username](https://github.com/Henry440)
+- **LinkedIn**: [LinkedIn-Profil](https://www.linkedin.com/in/oliver-audehm-23083119b/)
