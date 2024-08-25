@@ -29,12 +29,11 @@ Ich bin IT-Systemadministrator in einem mittelständischen Unternehmen, speziali
 
 - **Virtualisierung**: VMware vSphere
 - **Netzwerktechnik**: Ubiquiti (beruflich), TP-Link Omada (privat)
-- **Telefonie**: FreePBX
+- **Telefonie**: FreePBX, Asterisk
 - **SIEM-Tools**: OpenVAS, WAZUH, ProLog
-
-## Was ich suche
-
-Ich bin immer auf der Suche nach neuen Herausforderungen in den Bereichen IT-Infrastruktur, Netzwerksicherheit und Automatisierung. Wenn du an einer Zusammenarbeit oder einem Austausch interessiert bist, freue ich mich auf deine Nachricht!
+- **Programmierung**: Python3, Java
+- **Scripten**: PowerShell, Bash
+- **Automatisierung**: Ansible
 
 ## Kontakt
 
