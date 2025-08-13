@@ -2,7 +2,7 @@
 
 ## Über mich
 
-Ich bin IT-Systemadministrator in einem mittelständischen Unternehmen, spezialisiert auf kosteneffiziente IT-Lösungen. Meine Stärken liegen in der Planung, Implementierung und Verwaltung von IT-Infrastrukturen mit Fokus auf Linux- und Windows-Umgebungen, Netzwerktechnologien sowie Sicherheitslösungen.
+Ich bin IT-Systemadministrator/IT-Leiter in einem mittelständischen Unternehmen, spezialisiert auf kosteneffiziente IT-Lösungen. Meine Stärken liegen in der Planung, Implementierung und Verwaltung von IT-Infrastrukturen mit Fokus auf Linux- und Windows-Umgebungen, Netzwerktechnologien sowie Sicherheitslösungen.
 
 ### Expertise:
 
@@ -20,7 +20,7 @@ Ich bin IT-Systemadministrator in einem mittelständischen Unternehmen, speziali
 - **Aufbau einer Telefonanlage**: Implementierung einer FreePBX-basierten Telefonanlage.
 - **Administration von SIEM-Tools**: Verantwortlich für die Implementierung und Wartung von Sicherheitslösungen wie OpenVAS, ProLog und WAZUH.
 - **Erneuerung eines Unternehmensnetzwerks**: Planung und Umsetzung der gesamten Netzwerkinfrastruktur mit Ubiquiti-Komponenten.
-- **Aufbau von Monitoringlösungen**: Netzwerkmonitoring mit PRTG sowie CheckMK.
+- **Aufbau verschiedener Monitoringlösungen**: PRTG, CheckMK RAW und Zabbix.
 
 ### Privat
 
@@ -28,8 +28,8 @@ Ich bin IT-Systemadministrator in einem mittelständischen Unternehmen, speziali
 
 ## Technologie-Stack
 
-- **Virtualisierung**: VMware vSphere
-- **Netzwerktechnik**: Ubiquiti (beruflich), TP-Link Omada (privat)
+- **Virtualisierung**: VMware vSphere, Proxmox VE
+- **Netzwerktechnik**: Ubiquiti (beruflich), TP-Link Omada (privat), Cisco
 - **Telefonie**: FreePBX, Asterisk
 - **SIEM-Tools**: OpenVAS, WAZUH, ProLog
 - **Programmierung**: Python3, Java
