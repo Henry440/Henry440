@@ -7,7 +7,7 @@ Ich bin IT-Systemadministrator/IT-Leiter in einem mittelständischen Unternehmen
 ### Expertise:
 
 - **Linux-Administration**: Umfangreiche Erfahrung in der Verwaltung von Linux-Systemen.
-- **Windows-Administration**: Sehr gute Kenntnisse im Windows-Umfeld.
+- **Windows-Administration**: Umfangreiche Kenntnisse im Windows-Umfeld.
 - **Netzwerkadministration**: Planung und Optimierung von Netzwerken.
 - **SIEM-Tools**: Verwaltung und Überwachung von Sicherheitslösungen (OpenVAS, WAZUH, ProLog).
 - **Virtualisierung**: Einsatz von VMware vSphere in produktiven Umgebungen sowie auch Proxmox VE Cluster mit CEPH.
@@ -17,6 +17,7 @@ Ich bin IT-Systemadministrator/IT-Leiter in einem mittelständischen Unternehmen
 
 ### Beruflich
 
+- **Neukonzeptionierung IT-Systeme im Unternehmen** : Komplette neukonzeptionierung und Realisierung der IT-Systeme in einem Unternehmen
 - **Aufbau einer Telefonanlage**: Implementierung einer FreePBX-basierten Telefonanlage.
 - **Administration von SIEM-Tools**: Verantwortlich für die Implementierung und Wartung von Sicherheitslösungen wie OpenVAS, ProLog und WAZUH.
 - **Erneuerung eines Unternehmensnetzwerks**: Planung und Umsetzung der gesamten Netzwerkinfrastruktur mit Ubiquiti-Komponenten.
@@ -29,7 +30,7 @@ Ich bin IT-Systemadministrator/IT-Leiter in einem mittelständischen Unternehmen
 ## Technologie-Stack
 
 - **Virtualisierung**: VMware vSphere, Proxmox VE
-- **Netzwerktechnik**: Ubiquiti (beruflich), TP-Link Omada (privat), Cisco
+- **Netzwerktechnik**: SDN -> Ubiquiti, TP-Link Omada, Cisco (Basics)
 - **Telefonie**: FreePBX, Asterisk
 - **SIEM-Tools**: OpenVAS, WAZUH, ProLog
 - **Programmierung**: Python3, Java
